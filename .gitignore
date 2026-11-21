@@ -1,0 +1,11 @@
+# Compiled program
+supply_chain_system
+*.o
+*.out
+
+# Data and log files the program creates at runtime
+*.dat
+*logs.txt
+
+# OS files
+.DS_Store
